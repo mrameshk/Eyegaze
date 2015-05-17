@@ -5,7 +5,7 @@ It will have 3 branches
 1. Master Branch      -- This will the code base for the project
 2. Madhu-dev branch   -- Specific development, feature development made by Madhu
 
-Please use the makefile to build the peoject
+Please use the makefile to build the project
 
 Usage:
 
